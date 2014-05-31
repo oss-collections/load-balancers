@@ -1,0 +1,6 @@
+[submodule "haproxies"]
+	path = haproxies
+	url = git@github.com:oss-collections/haproxies.git
+[submodule "unicorn"]
+	path = unicorn
+	url = git://git.bogomips.org/unicorn.git
