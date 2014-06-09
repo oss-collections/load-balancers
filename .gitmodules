@@ -1,3 +1,6 @@
 [submodule "unicorn"]
 	path = unicorn
 	url = git://git.bogomips.org/unicorn.git
+[submodule "haproxy"]
+	path = haproxy
+	url = http://git.1wt.eu/git/haproxy.git
